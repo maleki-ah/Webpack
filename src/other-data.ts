@@ -1,0 +1,1 @@
+export let v1: string = 'Sample Other v3';

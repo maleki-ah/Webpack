@@ -1,0 +1,60 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage reports
+coverage/
+
+# Optional npm cache
+.npm/
+
+# Optional yarn cache
+.yarn/
+
+# Jest snapshot testing
+__snapshots__/
+
+# Storybook build outputs
+storybook-static/
+
+# Lint cache
+.eslintcache
+
+# Next.js build outputs (if using)
+.next/
+out/
+
+# TurboRepo outputs (if using monorepo)
+turbo/
+
+# Others
+*.local
+*.cache
